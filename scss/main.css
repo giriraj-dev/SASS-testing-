@@ -1,0 +1,25 @@
+.head {
+  background: black;
+  font-size: 50px;
+  color: #fff;
+  padding: 2rem;
+  text-align: center;
+  margin: 0;
+}
+
+.section {
+  padding: 3rem;
+}
+.section h3 {
+  font-size: 2rem;
+}
+.section-a {
+  background: rgb(42, 176, 180);
+}
+.section-b {
+  background: teal;
+}
+
+.head1 {
+  font-size: 50px;
+}/*# sourceMappingURL=main.css.map */

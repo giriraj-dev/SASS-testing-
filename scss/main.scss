@@ -1,0 +1,30 @@
+@import "_variable";
+
+.head {
+  background: black;
+  // font-family: $font-stack;
+  font-size: $raj;
+  color: #fff;
+  padding: 2rem;
+  text-align: center;
+  margin: 0;
+}
+
+.section {
+  padding: 3rem;
+
+  h3 {
+    font-size: 2rem;
+  }
+
+  &-a {
+    background: $primary-color;
+  }
+  &-b {
+    background: $secondary-color;
+  }
+}
+
+.head1 {
+  font-size: $raj;
+}
